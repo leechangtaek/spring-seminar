@@ -11,6 +11,7 @@ DROP TABLE "SPRING"."MENU" cascade constraints;
 --------------------------------------------------------
 --  DDL for Table MENU
 --------------------------------------------------------
+select * from menu;
 
   CREATE TABLE "SPRING"."MENU" 
    (	"ID" NUMBER, 
